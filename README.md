@@ -6,3 +6,4 @@ now I need to remember how to make a PR
 argh again
 making more edits
 foo
+bar
