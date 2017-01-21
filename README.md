@@ -9,3 +9,4 @@ foo
 bar
 baz
 bat
+bing
