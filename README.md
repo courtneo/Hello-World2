@@ -7,3 +7,4 @@ argh again
 making more edits
 foo
 bar
+baz
