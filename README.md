@@ -8,3 +8,4 @@ making more edits
 foo
 bar
 baz
+bat
