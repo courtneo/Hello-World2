@@ -10,3 +10,4 @@ bar
 baz
 bat
 bing
+baz
